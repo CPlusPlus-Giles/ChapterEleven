@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\colea\Desktop\C++\ChapterEleven\ChapterEleven\ChapterEleven\Source.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colea\Desktop\C++\ChapterEleven\ChapterEleven\ChapterEleven\Source.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colea\Desktop\C++\ChapterEleven\ChapterEleven\ChapterEleven\Source.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\colea\Desktop\C++\ChapterEleven\ChapterEleven\ChapterEleven\Source.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+  ChapterEleven.vcxproj -> C:\Users\colea\Desktop\C++\ChapterEleven\ChapterEleven\Debug\ChapterEleven.exe
